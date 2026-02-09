@@ -1,2 +1,4 @@
 gemm.exe
 gemm
+*.idx
+*.json
